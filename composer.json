@@ -1,0 +1,23 @@
+{
+  "name": "vendor_name/connect_singleton",
+  "description": "Projeto de conexão ao banco de dados utilizando a PDO.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Helington Junior",
+      "email": "junioor_souzaa282@hotmail.com",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    }
+  },
+  "require": {
+  }
+}
