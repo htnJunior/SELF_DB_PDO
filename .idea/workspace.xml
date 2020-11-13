@@ -26,18 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46bf9e1f-db36-4fa7-891d-613837791462" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/connect_singleton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/connect_singleton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="5e45d8d3-6069-4657-9886-39f8bdb749cb" />
@@ -66,18 +62,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../b7webCurso" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\connect_singleton" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
-      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605114635820</updated>
-      <workItem from="1605114660630" duration="2819000" />
+      <workItem from="1605114660630" duration="3050000" />
+      <workItem from="1605257825862" duration="810000" />
     </task>
     <servers />
   </component>
@@ -116,12 +108,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="276" width="443" height="266" key="ComposerInitDialogKey" timestamp="1605126383993">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="458" y="276" width="443" height="266" key="ComposerInitDialogKey/0.0.1360.728@0.0.1360.728" timestamp="1605126383993" />
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1605258636558">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1605258636558" />
     <state x="445" y="86" key="NewPhpClassDialog" timestamp="1605125574707">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
